@@ -1,0 +1,11 @@
+# Latex files
+*.aux
+*.dvi
+*.log
+*.out
+*.synctex.gz
+
+# Emacs backups
+*~
+
+*.iml
